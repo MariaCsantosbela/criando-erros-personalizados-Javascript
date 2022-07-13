@@ -1,4 +1,4 @@
-# criando-erros-personalizados-Javascript
+# Criando-erros-personalizados-Javascript
 
 ## Exercicios: criando erros personalizados em JavaScript
 ### aboradando no estudo : 
